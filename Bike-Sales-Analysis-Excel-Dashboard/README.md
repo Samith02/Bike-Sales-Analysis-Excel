@@ -54,5 +54,9 @@ Key insights obtained from the dashboard:
 - Business Intelligence
 - Analytical Thinking
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard-overview.png)
+
 ## Author
 Samith Jangam
