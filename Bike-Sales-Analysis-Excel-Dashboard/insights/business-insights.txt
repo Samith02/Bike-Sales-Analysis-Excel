@@ -1,0 +1,11 @@
+Business Insights:
+
+1. Higher-income customers are more likely to purchase bikes.
+
+2. Middle-aged individuals form a major customer segment.
+
+3. Commute distance impacts customer buying behavior.
+
+4. Regional analysis helps identify areas with higher bike purchase trends.
+
+5. Dashboard visualization improves business decision-making and trend analysis.
