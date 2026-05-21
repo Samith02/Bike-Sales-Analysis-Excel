@@ -44,10 +44,7 @@ Key insights obtained from the dashboard:
 3. Created pivot tables for analysis
 4. Built charts and visualizations
 5. Designed interactive dashboard using slicers
-
-## Dashboard Preview
-
-![Dashboard](Bike-Sales-Analysis-Excel-dashboard/screenshots/dashboard-overview.png)
+   
 
 ## Skills Demonstrated
 - Data Cleaning
