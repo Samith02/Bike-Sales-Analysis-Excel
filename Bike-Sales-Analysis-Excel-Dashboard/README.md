@@ -56,7 +56,7 @@ Key insights obtained from the dashboard:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](Screenshots/dashboard-overview.png)
 
 ## Author
 Samith Jangam
